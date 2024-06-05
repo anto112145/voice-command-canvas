@@ -1,0 +1,13 @@
+#body{
+    background-color: lightpink;
+}
+#heading{
+    background-color: pink;
+}
+canvas{
+    border-color: black;
+    border-width: 2px;
+    border-style:solid;
+    margin-top: 100px;
+    background-color: white;
+}
